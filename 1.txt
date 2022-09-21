@@ -1,8 +1,6 @@
 1
 2
 2022-09-20, merging
-<<<<<<< HEAD
-=======
 fetch test
 fetch test2
->>>>>>> parent of 53bd88e (Update 1.txt)
+IntelliJ, commit test
